@@ -6,11 +6,7 @@ Parabéns, você foi selecionado para participar da segunda fase do nosso proces
 
 Feita para os ávidos e inconformados, aqueles que acreditam no real valor de um conteúdo de qualidade.
 
-<<<<<<< HEAD
 A Prensa é uma _media tech_ fundada em 26/12/2019. Somos uma startup que produz conteúdo para as marcas se conectarem com seu público-alvo. Na [**Prensa**](https://prensa.li/) atendemos marcas que precisam dialogar com desenvolvedores e é nesta parte que você entra! :)
-=======
-A Prensa é uma **media tech** fundada em 26/12/2019. Somos uma startup que produz conteúdo para as marcas se conectarem com seu público-alvo. Na [**Prensa**](https://prensa.li/) atendemos marcas que precisam dialogar com desenvolvedores e é nesta parte que você entra! :)
->>>>>>> 34a37e54cef00ca11cd22c84cbb822bbe60c5222
 
 Buscamos um **redator técnico (_Tech Writer_)** capaz de compreender as APIs oferecidas pelos nossos clientes e combinar com o seu conhecimento de programação para produzir textos técnicos/tutoriais, ensinando passo a passo de como consumir um ou mais serviços, criando assim uma aplicação de exemplo.
 
