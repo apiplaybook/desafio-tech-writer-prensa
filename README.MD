@@ -24,7 +24,7 @@ Para validarmos o desafio, escreva o tutorial no **README** do seu projeto no **
 
 ## Como deve ser o exemplo de aplicação?
 
-- Permitir que o usuário digite os 8 primeiros números do cartão (**BIN**) e retorne as informações disponíveis na documentação (exemplo: benefícios que o cartão possui);
+- Permitir que o usuário digite os 6 primeiros números do cartão (**BIN**) e retorne as informações disponíveis na documentação (exemplo: benefícios que o cartão possui);
 
 - Crie um BFF (_Backend For Frontend_) que consuma a API de BINs da Elo preservando assim sua chave de API;
 
