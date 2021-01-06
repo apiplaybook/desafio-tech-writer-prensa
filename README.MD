@@ -20,7 +20,7 @@ Para o desafio, propomos a criação de um tutorial. Lembre-se de que o objetivo
 
 Estamos avaliando as suas habilidades de como elaborar um texto combinando seu conhecimento técnico e de programação para ensinar um desenvolvedor de como ele pode criar uma aplicação web simples utilizando a [API de Tabela de BINs](https://dev.elo.com.br/documentacao/tabela-de-bins) da Elo. O seu tutorial deve ser capaz de esclarecer as principais dúvidas e impedimentos de consumo da API.
 
-Para validarmos o desafio, escreva o tutorial no **README** do seu projeto no **GITHUB** juntamente com o código da aplicação utilizando a API.
+Para validarmos o desafio, escreva o tutorial no **README** do seu projeto no **GITHUB** juntamente com o código da aplicação utilizando a API e envie o link do repositório criado via [e-mail](mailto:luana@apiplaybook.com?subject=Desafio%20Tech%20Writer%20Prensa%20Finalizado).
 
 ## Como deve ser o exemplo de aplicação?
 
