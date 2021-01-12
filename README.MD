@@ -1,4 +1,4 @@
-# Desafio tech writer Prensa
+# Desafio Técnico Prensa
 
 Parabéns, você foi selecionado para participar da segunda fase do nosso processo seletivo.
 
@@ -8,7 +8,7 @@ Feita para os ávidos e inconformados, aqueles que acreditam no real valor de um
 
 A Prensa é uma _media tech_ fundada em 26/12/2019. Somos uma startup que produz conteúdo para as marcas se conectarem com seu público-alvo. Na [**Prensa**](https://prensa.li/) atendemos marcas que precisam dialogar com desenvolvedores e é nesta parte que você entra! :)
 
-Buscamos um **redator técnico (_Tech Writer_)** capaz de compreender as APIs oferecidas pelos nossos clientes e combinar com o seu conhecimento de programação para produzir textos técnicos/tutoriais, ensinando passo a passo de como consumir um ou mais serviços, criando assim uma aplicação de exemplo.
+Buscamos um **Desenvolvedor Júnior** capaz de compreender as APIs oferecidas pelos nossos clientes e combinar com o seu conhecimento de programação para produzir textos técnicos/tutoriais, ensinando passo a passo de como consumir um ou mais serviços, criando assim uma aplicação de exemplo.
 
 Afinal, ninguém gosta de ler documentações extensas!
 
